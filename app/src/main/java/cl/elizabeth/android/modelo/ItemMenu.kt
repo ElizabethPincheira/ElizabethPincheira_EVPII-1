@@ -1,4 +1,4 @@
 package cl.elizabeth.android.modelo
 
-class ItemMenu {
+class ItemMenu(val nombre:String, val precio:String) {
 }

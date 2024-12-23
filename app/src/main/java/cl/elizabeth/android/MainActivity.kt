@@ -17,5 +17,13 @@ class MainActivity : AppCompatActivity() {
             insets
 
         }
+
+    // val boton = findViewById<Button>(R.id.btningresarpedido)
+    // val valortotal = findViewById<TextView>(R.id.valortotal)
+    
+    // boton.setOnClickListener{
+    //     valortotal.Int = "12345"
+    // }
+
     }
 }
