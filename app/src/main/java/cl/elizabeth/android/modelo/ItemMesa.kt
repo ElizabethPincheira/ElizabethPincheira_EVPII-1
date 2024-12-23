@@ -6,3 +6,5 @@ class ItemMesa(itemMenu:ItemMenu, cantidad:Int) {
         return precio * cantidad
     }
 }
+
+
